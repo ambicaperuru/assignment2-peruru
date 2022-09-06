@@ -15,5 +15,18 @@ The nearest airport to SalarJung Museum is Rajiv Gandhi International Airport wh
 4. Turn left onto Airport Rd.
 5. Turn right to stay on Airport Rd.
 6. Turn right onto SalarJung Rd.
+<br>
+
+### Unordered List of other locations around the salarjung museum
+- Chowmahalla Palace
+- Charminar
+- Mecca Masjid
+- Purani Haveli
+- Laad Bazaar
+- Birla Mandir
+- Taj Falaknuma Palace
+
+
+
 
 
