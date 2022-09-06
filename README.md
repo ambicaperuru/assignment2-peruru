@@ -4,3 +4,16 @@ Assignment2
 ## SalarJung Museum
 The Veiled Rebecca, **the statue of Mephistopheles** and **the century-old bracket clock** that stil keeps time are the three “must-see” exhibits that everyone makes a beeline for when they visit the SalarJung museum.
 
+---
+
+## Step by step directions from RGI Airport to SalarJung Museum.
+The nearest airport to SalarJung Museum is Rajiv Gandhi International Airport which is 15.7 km away.
+
+1. Head west on Departure Dr toward Arrival Dr.
+2. At Arrival Rotary, take the 3rd exit.
+3. Exit the roundabout.
+4. Turn left onto Airport Rd.
+5. Turn right to stay on Airport Rd.
+6. Turn right onto SalarJung Rd.
+
+
