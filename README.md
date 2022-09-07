@@ -27,7 +27,7 @@ The nearest airport to SalarJung Museum is Rajiv Gandhi International Airport wh
 - Taj Falaknuma Palace
 
 ### A picture of me taken at a Deloitte conference.
-**![A picture of me taken at a Deloitte conference.](Ambica%20Peruru.png)**
+**[My Image](Ambica%20Peruru.png)**
 <br>
 
 ---
@@ -41,3 +41,7 @@ The nearest airport to SalarJung Museum is Rajiv Gandhi International Airport wh
 | Warangal       | 1000 pillars      | 1hour               |
 | Lucknow        | Hazratganj        | 1hour               |
 | Varanasi       | Kasi              | 3hours              |
+
+---
+
+# Quotes
