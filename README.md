@@ -28,8 +28,16 @@ The nearest airport to SalarJung Museum is Rajiv Gandhi International Airport wh
 
 ### A picture of me taken at a Deloitte conference.
 **![A picture of me taken at a Deloitte conference.](Ambica%20Peruru.png)**
+<br>
 
+---
 
+# Must visit places in India
+### I've had a great time when I visited the below places. I would highly recommend someone to visit these places.
 
-
-
+| City Name      | Location to visit | Time tobe spent     |
+|----------------|-------------------|---------------------|
+| Hyderabad      | Charminar         | 2hours              | 
+| Warangal       | 1000 pillars      | 1hour               |
+| Lucknow        | Hazratganj        | 1hour               |
+| Varanasi       | Kasi              | 3hours              |
