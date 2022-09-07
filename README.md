@@ -26,6 +26,9 @@ The nearest airport to SalarJung Museum is Rajiv Gandhi International Airport wh
 - Birla Mandir
 - Taj Falaknuma Palace
 
+### A picture of me taken at a Deloitte conference.
+**![A picture of me taken at a Deloitte conference.](Ambica%20Peruru.png)**
+
 
 
 
