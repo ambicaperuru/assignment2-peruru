@@ -27,7 +27,7 @@ The nearest airport to SalarJung Museum is Rajiv Gandhi International Airport wh
 - Taj Falaknuma Palace
 
 ### A picture of me taken at a Deloitte conference.
-**[My Image](Ambica%20Peruru.png)** 
+**[My Image](Ambica%20Peruru.png)**
 <br>
 
 ---
@@ -45,3 +45,6 @@ The nearest airport to SalarJung Museum is Rajiv Gandhi International Airport wh
 ---
 
 # Quotes
+
+> Time and Tide waits for no man - *Dale Spender* <br>
+> This too shall pass - *Rumi and Fariddudun Attar*
