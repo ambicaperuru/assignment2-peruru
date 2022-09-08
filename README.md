@@ -48,3 +48,15 @@ The nearest airport to SalarJung Museum is Rajiv Gandhi International Airport wh
 
 > Time and Tide waits for no man - *Dale Spender* <br>
 > This too shall pass - *Rumi and Fariddudun Attar*
+
+---
+
+## Code Fencing - PHP Error Logging
+>I want to write a message to an error log file when executing PHP code. I am trying to use the PHP error_log() function Docs. But it's not working properly for me : <https://stackoverflow.com/questions/15530039/how-to-write-to-error-log-file-in-php>
+
+```
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+```
+<https://css-tricks.com/snippets/htaccess/php-error-logging/>
